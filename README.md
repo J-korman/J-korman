@@ -12,7 +12,9 @@ After years of growing love for computers I am going to break into this career f
 ## stegnths & skills
 
 Problem solving
+
 communication
+
 quick leaner
 
 
