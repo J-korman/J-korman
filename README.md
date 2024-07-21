@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm Jeremy👋
+Check out my profile
 <a href="https://www.linkedin.com/in/jeremy-korman-a4b470312"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&stlye=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
