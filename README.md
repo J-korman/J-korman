@@ -2,6 +2,11 @@
 Check out my profile
 <a href="https://www.linkedin.com/in/jeremy-korman-a4b470312"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&stlye=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+[Brief Introduction]
+I am currently learning cyber security and coding. I've been interested in this fierld of work and I'm excited to take the next step.
+
+## objective 
+
 <!--
 **J-korman/J-korman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
