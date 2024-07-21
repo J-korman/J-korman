@@ -9,6 +9,10 @@ I am currently learning cyber security and coding. I've been interested in this 
 
 After years of growing love for computers I am going to break into this career field and suceed. I hope to achieve an entry-level job cybersecurity within the next 6-12 months
 
+##skills
+
+|skill                            | associated projects
+
 <!--
 **J-korman/J-korman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
