@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://www.linkedin.com/in/jeremy-korman-a4b470312"><img src https://img.shields.io/badge/-linkedin-0072b1&stlye=for-the-badge&logo=
+<a href="https://www.linkedin.com/in/jeremy-korman-a4b470312"><img src="https://img.shields.io/badge/-linkedin-0072b1&stlye=for-the-badge&logo=
 linkedin&logocolor=white" /></a>
 
 <!--
